@@ -10,3 +10,4 @@ Observer has resticted access and can only observe thhe output and cannot make a
 
 TRAIN.M: Executes the Superuser interface
 GAURD.M: Executes the Observer interface
+sensitivity.txt: stores the sensitivity if the System. It can either be changed manually or by the scroller in the GUI.
